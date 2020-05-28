@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+
+.center{
+    text-align: center;
+    font-size: 2em;
+}
+
+.center h1{
+    background-color: blueviolet;
+}
+
+.center img{
+    margin-top: 30px;
+}
